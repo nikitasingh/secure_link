@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SecureLink
 
 TODO: Write a gem description
@@ -30,6 +29,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
-=======
-# secure_link
->>>>>>> 301a9d326644ad84ae831e42bb6a70cc73980227
+
