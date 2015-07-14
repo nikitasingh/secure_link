@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "secure_link"
   spec.version       = SecureLink::VERSION
   spec.authors       = ["Nikita Singh"]
-  spec.email         = ["nikita_singh@external.mckinsey.com"]
-  spec.summary       = "This gem helps you authorize your Rails link with the help of cancan and devise"
-  spec.description   = "This gem helps you authorize your Rails link with the help of cancan and devise"
-  spec.homepage      = ""
+  spec.email         = ["nikitaa_singh@yahoo.co.in"]
+  spec.summary       = "This gem helps you authorize your Rails link_to helper"
+  spec.description   = "This gem helps you authorize your Rails link_to helper"
+  spec.homepage      = "https://github.com/nikitasingh/secure_link"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
